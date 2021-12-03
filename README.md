@@ -39,7 +39,7 @@ Visualization:  Matplotlib, Seaborn
 
 Classification report from the final model are provided below:
 
-precision    recall  f1-score   support
+                                                      precision    recall  f1-score   support
 
                               Speed limit (20km/h)       0.98      0.83      0.90        60
                               Speed limit (30km/h)       0.93      0.98      0.95       720
